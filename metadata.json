@@ -1,0 +1,6 @@
+{
+  "name": "Calculus Data - نظام إدارة المصنع والفندق",
+  "description": "نظام إدارة متكامل وشامل لإدارة المصنع والفندق، الموظفين، المخزون، الحجوزات، والحسابات المالية مع تخزين محلي آمن في المتصفح.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
